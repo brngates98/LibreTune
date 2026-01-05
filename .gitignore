@@ -31,3 +31,6 @@ dist/
 
 # Reference materials (not for distribution)
 /reference/
+
+# Release artifacts
+/releases/
